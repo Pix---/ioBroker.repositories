@@ -243,7 +243,7 @@
     "meta": "https://raw.githubusercontent.com/Pix---/ioBroker.feiertage/master/io-package.json",
     "icon": "https://raw.githubusercontent.com/Pix---/ioBroker.feiertage/master/admin/feiertage.png",
     "type": "date-and-time",
-    "version": "1.0.17"
+    "version": "1.0.19"
   },
   "fhem": {
     "meta": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.fhem/master/io-package.json",
@@ -405,7 +405,7 @@
     "meta": "https://raw.githubusercontent.com/Pix---/ioBroker.homepilot/master/io-package.json",
     "icon": "https://raw.githubusercontent.com/Pix---/ioBroker.homepilot/master/admin/homepilot.png",
     "type": "iot-systems",
-    "version": "1.0.3"
+    "version": "1.0.4"
   },
   "hp-ilo": {
     "meta": "https://raw.githubusercontent.com/SebastianSchultz/ioBroker.hp-ilo/master/io-package.json",
@@ -1256,7 +1256,7 @@
     "meta": "https://raw.githubusercontent.com/Pix---/ioBroker.tankerkoenig/master/io-package.json",
     "icon": "https://raw.githubusercontent.com/Pix---/ioBroker.tankerkoenig/master/admin/tankerkoenig.png",
     "type": "misc-data",
-    "version": "2.0.5"
+    "version": "2.0.9"
   },
   "telegram": {
     "meta": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.telegram/master/io-package.json",
@@ -1304,7 +1304,7 @@
     "meta": "https://raw.githubusercontent.com/Pix---/ioBroker.tvspielfilm/master/io-package.json",
     "icon": "https://raw.githubusercontent.com/Pix---/ioBroker.tvspielfilm/master/admin/tvspielfilm.png",
     "type": "misc-data",
-    "version": "1.0.4"
+    "version": "2.0.1"
   },
   "unifi": {
     "meta": "https://raw.githubusercontent.com/jens-maus/ioBroker.unifi/master/io-package.json",
