@@ -1634,7 +1634,7 @@
     "meta": "https://raw.githubusercontent.com/Pix---/ioBroker.tankerkoenig/master/io-package.json",
     "icon": "https://raw.githubusercontent.com/Pix---/ioBroker.tankerkoenig/master/admin/tankerkoenig.png",
     "type": "misc-data",
-    "version": "2.0.5"
+    "version": "2.0.11"
   },
   "telegram": {
     "meta": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.telegram/master/io-package.json",
